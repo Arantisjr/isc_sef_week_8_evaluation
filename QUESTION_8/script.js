@@ -1,7 +1,7 @@
 let btn = document.querySelector('.button');
-let body = document.getElementsByName("body")
+let bodyElement = documen.body
 
 
 btn.addEventListener("click", function(){
-    body.
+    bodyElement.style.backgroundColor = "red";
 })
