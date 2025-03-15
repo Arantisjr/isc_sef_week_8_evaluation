@@ -1,5 +1,5 @@
 let btn = document.querySelector('.button');
-let bodyElement = documen.body
+let bodyElement = document.body;
 
 
 btn.addEventListener("click", function(){
